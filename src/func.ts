@@ -29,7 +29,7 @@ export function filtra<T, U>(p: (x: T) => boolean, xs: T[]) {
  *
  * Esempio:
  *   splitta("ciao mondo", " ") ==> ["ciao", "mondo"]
- *   splitta("ciao mondo", "o") ==> ["cia", "m", "nd", ""]
+ *   splitta("ciao mondo", "o") ==> ["cia", " m", "nd", ""]
  *   splitta("tizio,caio", ",") ==> ["tizio", "caio"]
  */
 export function splitta(s: string, x: string): string[] {

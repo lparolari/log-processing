@@ -26,7 +26,7 @@ function main() {
   // mappa, filtra, splitta, unisci, toInt, toData.
   // Per comodità sono già state importate.
 
-  // 1. dividere `myLogs` per gli *a capo*
+  // 1. dividere `myLogs` per gli *a capo* (carattere \n)
   const logs1: string[] = undefined; // TODO (~ 1 linea di codice)
 
   console.log(logs1);
@@ -49,9 +49,9 @@ function main() {
   // 4. dividere i dettagli del log per spazio ` `, così da poter
   //    accedere alle singole parti dei dettagli. Unire questo array
   //    al valore del log ottenuto precedentemente!
-  const logs4: string[][] = undefined;
+  const logs4: string[][] = undefined; // TODO (~ 1 linea di codice)
 
-  console.log(logs3);
+  console.log(logs4);
   // OUTPUT:
   // [
   //   [data1, servizio1, importanza1, utente1, log1],
@@ -62,7 +62,7 @@ function main() {
 
   // 5. creare l'oggetto log a partire dalla tupla con le 5 componenti
   // ottenuta sopra
-  const logs5: Log[] = undefined;
+  const logs5: Log[] = undefined; // TODO (~ 1 linea di codice ma potrebbe essere utile dividere l'espressione su 4/5 righe!)
 
   console.log(logs5);
   // OUTPUT:
@@ -74,7 +74,7 @@ function main() {
   // ]
 
   // 6. filtrare i log e matenere solo quello con importanza 3 (errore)
-  const logs6: Log[] = undefined;
+  const logs6: Log[] = undefined; // TODO (~ 1 linea di codice)
 
   console.log(logs6);
   // OUTPUT: (vero)
