@@ -1,0 +1,17 @@
+2021-02-14T14:22:05.565Z AccountService 1 Tizio: Tentativo di login in corso
+2021-02-14T14:22:05.565Z AccountService 1 Tizio: Accesso avvenuto correttamente
+2021-02-14T13:01:53.145Z System 2 Root: Utilizzo della memoria elevato
+2021-02-14T13:02:30.632Z System 2 Root: Utilizzo della memoria elevato
+2021-02-14T13:02:24.565Z System 3 Root: Memoria piena, ucciso il processo con PID 23612
+2021-02-14T14:24:31.112Z AccountService 1 Caio: Tentativo di login in corso
+2021-02-14T14:24:47.617Z AccountService 2 Caio: Password errata
+2021-02-14T14:24:48.512Z YoutubeService 0 Youtube: Video con ID x65fvdss351 richiesto non esistente
+2021-02-14T14:24:48.512Z YoutubeService 0 Youtube: Video con ID 696rweta282 richiesto non esistente
+2021-02-14T14:24:48.512Z AccountService 2 Caio: Password errata
+2021-02-14T14:25:09.323Z AccountService 2 Caio: Password errata
+2021-02-14T14:25:45.287Z AccountService 3 Caio: Accesso proibito per 2 ore
+2021-02-14T13:53:45.574Z YoutubeService 2 Unknown: Ricevuto un numero di richieste anormale
+2021-02-14T13:53:22.123Z YoutubeService 2 Unknown: Ricevuto un numero di richieste anormale
+2021-02-14T13:53:24.773Z YoutubeService 3 Unknown: Bloccato IP 75.12.66.123 per elevato numero di richieste
+2021-02-14T12:15:42.685Z System 1 Root: Il server verrà riavviato tra 1h per un riavvio programmato
+2021-02-14T12:16:11.147Z System 0 Root: Pulizia dei file temporanei
